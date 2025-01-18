@@ -1,20 +1,48 @@
-<h1 align="center">Hi 👋, I'm Mrunal Mehar</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mrunalx863.Mrunalx863">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrunalxmehar" alt="mrunalxmehar" /></a> </p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mrunal+Mehar;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-- 📫 How to reach me **mrunalmehar863@gmail.com**
+<h5 align="center">
+  <code><a href="mailto:mrunalmehar863@gmail.com" title="Mail"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"> Mail</a></code>
+  <code><a href="https://www.linkedin.com/in/Mrunalx863" title="LinkedIn Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_logo_with_text.svg"> LinkedIn</a></code>
+  <code><a href="https://leetcode.com/u/Mrunalx863/" title="LeetCode Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"> LeetCode</a></code>
+  <code><a href="https://codeforces.com/profile/mrunal" title="Codeforces Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Codeforces_logo.png"> Codeforces</a></code>
+</h5>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mrunalmeharindia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrunalmeharindia" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mrunalmeharxindia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrunalmeharxindia" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mrunalmek9q4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mrunalmek9q4" height="30" width="40" /></a>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="HTML5" height="25" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/HTML5_logo_and_wordmark.svg"></code>
+  <code><img title="CSS3" height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"></code>
+  <code><img title="Bootstrap" height="25" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Bootstrap_logo.svg"></code>
+  <code><img title="Tailwind CSS" height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Tailwind_CSS_Logo.svg"></code>
+  <code><img title="JavaScript" height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/63/JavaScript_logo_2.svg"></code>
+  <code><img title="React" height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
+  <code><img title="Node.js" height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo_2015.svg"></code>
+  <code><img title="Express.js" height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"></code>
+  <code><img title="RESTful API" height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Representational_State_Transfer.svg"></code>
+  <code><img title="MySQL" height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/63/MySQL_logo_2013.svg"></code>
+  <code><img title="MongoDB" height="25" src="https://upload.wikimedia.org/wikipedia/commons/4/47/MongoDB_Logo.svg"></code>
+  <code><img title="Redis" height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Redis_logo.svg"></code>
 </p>
+<hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+      <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=Mrunalx863&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrunalx863&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+  </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrunalxmehar&show_icons=true&locale=en" alt="mrunalxmehar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrunalxmehar&" alt="mrunalxmehar" /></p>
+</p>
