@@ -14,7 +14,7 @@
 </h5>
 <br>
 
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 <br>
 <p align="center">
   <code><img title="HTML5" height="25" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/HTML5_logo_and_wordmark.svg"></code>
