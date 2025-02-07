@@ -6,43 +6,20 @@
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="mailto:mrunalmehar863@gmail.com" title="Mail"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"> Mail</a></code>
-  <code><a href="https://www.linkedin.com/in/Mrunalx863" title="LinkedIn Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_logo_with_text.svg"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/u/Mrunalx863/" title="LeetCode Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"> LeetCode</a></code>
-  <code><a href="https://codeforces.com/profile/mrunal" title="Codeforces Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Codeforces_logo.png"> Codeforces</a></code>
-</h5>
 <br>
 
-<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="HTML5" height="25" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/HTML5_logo_and_wordmark.svg"></code>
-  <code><img title="CSS3" height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"></code>
-  <code><img title="Bootstrap" height="25" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Bootstrap_logo.svg"></code>
-  <code><img title="Tailwind CSS" height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Tailwind_CSS_Logo.svg"></code>
-  <code><img title="JavaScript" height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/63/JavaScript_logo_2.svg"></code>
-  <code><img title="React" height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
-  <code><img title="Node.js" height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo_2015.svg"></code>
-  <code><img title="Express.js" height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"></code>
-  <code><img title="RESTful API" height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Representational_State_Transfer.svg"></code>
-  <code><img title="MySQL" height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/63/MySQL_logo_2013.svg"></code>
-  <code><img title="MongoDB" height="25" src="https://upload.wikimedia.org/wikipedia/commons/4/47/MongoDB_Logo.svg"></code>
-  <code><img title="Redis" height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Redis_logo.svg"></code>
-</p>
-<hr>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mrunalx863) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrunalmehar863@gmail.com) 
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-      <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=Mrunalx863&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrunalx863&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-  </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mrunalx863&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mrunalx863&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrunalx863&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mrunalx863&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
